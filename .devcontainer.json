@@ -1,0 +1,25 @@
+{
+    "name": "Python 3 Data Science",
+    "image": "mcr.microsoft.com/devcontainers/python:3.12-bookworm", 
+    "features": {
+      "ghcr.io/devcontainers/features/node": {
+        "version": "latest"
+      }
+    },
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "ms-python.python",
+          "ms-toolsai.jupyter",
+          "ms-python.vscode-pylance",
+          "ms-toolsai.jupyter-keymap",
+          "ms-toolsai.jupyter-renderers",
+          "ms-toolsai.jupyter-slideshow",
+          "esbenp.prettier-vscode",
+          "dbaeumer.vscode-eslint"
+        ]
+      }
+    },
+    "postCreateCommand": "pip install -r requirements.txt",
+    "postStartCommand": "jupyter lab --ip=0.0.0.0 --no-browser --allow-root"
+}
