@@ -1,0 +1,18 @@
+{
+  "Date": "A precise calendar date (e.g. '1979-08-02').",
+  "DateAndTime": "A specific date and time with precision (e.g. '2004-01-01T10:10:10+05:00').",
+  "Interval": "A range of dates from one specific date to another (e.g. '1979-08-28/1979-09-25').",
+  "UncertainOrApproximate": "A date that is either uncertain or approximate or both, indicated with a question mark (?), tilde (~) or percentage (%), respectively (e.g. '1979-08-28~').",
+  "Unspecified": "A date where certain parts are unspecified, indicated with 'X' (e.g. '1979-08-XX').",
+  "Level1Interval": "A date interval where one or both dates may be uncertain or approximate (e.g. '1984-06-02?/2004-08-08~').",
+  "UnspecifiedIntervalSection": "An interval where one of the bounds is open-ended (indicated with a double-dot ..).",
+  "LongYear": "A year longer than four digits, used to indicate historical or far-future years (e.g. 'Y-12000' equates to 12000 years BCE)",
+  "Season": "A season instead of a month, identified using a non-month integer (e.g. '1979-22' equates to Summer 1979).",
+  "PartialUncertainOrApproximate": "A date where part is certain and part uncertain or approximate (e.g. '2004-06~-11').",
+  "PartialUnspecified": "A date where part is certain and part is unspecified (e.g. '1979-XX-28').",
+  "OneOfASet": "A set of possible dates where only one is correct, but it is unclear which (e.g. '[..1760-12-03, 1762]').",
+  "MultipleDates": "A list of multiple dates where all are applicable (e.g. '{1667, 1668, 1670..1672}').",
+  "Level2Interval": "An interval with more complex uncertainty combinations, where part of the date may be approximate, uncertain or unspecified (e.g. '2004-06-~01/2004-06-~20').",
+  "Level2Season": "A seasonal expression with further uncertainty specification, such as approximate seasons.",
+  "ExponentialYear": "A year in exponential notation, often used for very large or small years (e.g. 'Y-17E7' is estimated as -170000000."
+}

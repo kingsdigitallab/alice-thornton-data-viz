@@ -70,6 +70,7 @@ prompt_toolkit==3.0.48
 psutil==6.1.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
+pyarrow==17.0.0
 pycparser==2.22
 Pygments==2.18.0
 pyparsing==3.2.0
@@ -83,6 +84,7 @@ requests==2.32.3
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rpds-py==0.20.0
+seaborn==0.13.2
 Send2Trash==1.8.3
 setuptools==69.0.3
 six==1.16.0
@@ -102,3 +104,4 @@ wcwidth==0.2.13
 webcolors==24.8.0
 webencodings==0.5.1
 websocket-client==1.8.0
+wordcloud==1.9.3
