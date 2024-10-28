@@ -1,0 +1,81 @@
+[
+  {
+    "event": "Born in Kirklington",
+    "start_year": 1626
+  },
+  {
+    "event": "Moves to Dublin",
+    "start_year": 1632,
+    "approximate": true
+  },
+  {
+    "event": "Moves to Chester",
+    "start_year": 1642,
+    "end_year": 1643
+  },
+  {
+    "event": "Moves to Hipswell",
+    "start_year": 1644,
+    "end_year": 1659
+  },
+  {
+    "event": "Marries",
+    "start_year": 1651
+  },
+  {
+    "event": "Moves to East Newton",
+    "start_year": 1662
+  },
+  {
+    "event": "Widowed",
+    "start_year": 1668
+  },
+  {
+    "event": "Only adult son dies",
+    "start_year": 1692
+  },
+  {
+    "event": "Dies",
+    "start_year": 1707
+  },
+  {
+    "event": "Earl of Strafford executed",
+    "start_year": 1641,
+    "month": "May"
+  },
+  {
+    "event": "Irish Rebellion",
+    "start_year": 1641,
+    "month": "October"
+  },
+  {
+    "event": "Siege at Chester",
+    "start_year": 1643,
+    "month": "July"
+  },
+  {
+    "event": "Battle of Marston Moor",
+    "start_year": 1644,
+    "month": "July"
+  },
+  {
+    "event": "Battle of Naseby",
+    "start_year": 1645,
+    "month": "June"
+  },
+  {
+    "event": "Execution of Charles I",
+    "start_year": 1649,
+    "month": "January"
+  },
+  {
+    "event": "Interregnum",
+    "start_year": 1649,
+    "end_year": 1660
+  },
+  {
+    "event": "Restoration of Charles II",
+    "start_year": 1660,
+    "month": "May"
+  }
+]
